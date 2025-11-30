@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775366439566",
+    "project_id": "tpmod12-872e9",
+    "storage_bucket": "tpmod12-872e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775366439566:android:8e278d84fe222f03cf8fdf",
+        "android_client_info": {
+          "package_name": "com.example.tp_flutter_mod12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVjYBnac_TPkG487Ql4sF5ULg3zT1Hfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
